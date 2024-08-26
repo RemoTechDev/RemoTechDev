@@ -1,4 +1,4 @@
-# Hi there, I'm Omer 👋
+# Hi there, I'm Remo 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner with a strong background in community management, software development, and AI/ML technologies. I love exploring new technologies and building innovative solutions that can make a difference.
 
