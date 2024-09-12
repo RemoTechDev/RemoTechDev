@@ -33,7 +33,7 @@ A Raspberry Pi-based weather station that monitors temperature, humidity, and pr
 A machine learning project that provides personalized recommendations based on user behavior. Built with Python and Scikit-Learn.
 
 ## 💬 Let's Connect!
-- [LinkedIn](coming.soon)
+- [LinkedIn](https://www.linkedin.com/in/oemer-a-2432a8328/)
 - [Twitter](coming.soon)
 - [Email](mailto:coming@soon)
 
